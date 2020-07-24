@@ -9,7 +9,7 @@ name: Ibrahim
 description: I will post my learnings here!
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/mibrahimy/mibrahimy.github.io/blob/master/images/logo.png
+avatar: /images/logo.png
 
 #
 # Flags below are optional
