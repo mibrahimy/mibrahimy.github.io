@@ -1,0 +1,13 @@
+I"E<p>I have 3 years of experience working on classification, and object detection problems using Deep Learning. I have also optimized these algorithms to achieve lesser inference time and allow scalable solutions on NVIDIA Desktop GPUs and Jetson series.</p>
+
+<p>Technologies I have worked with:</p>
+
+<ul>
+  <li>C++</li>
+  <li>Python</li>
+  <li><a href="https://developer.nvidia.com/tensorrt">TensorRT</a></li>
+  <li>CUDA</li>
+  <li><a href="https://developer.nvidia.com/deepstream-sdk">DeepStream</a></li>
+  <li><a href="https://gstreamer.freedesktop.org/">Gstreamer</a></li>
+</ul>
+:ET
